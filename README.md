@@ -1,13 +1,4 @@
-<nav><a href="#tools">Tools</a>  <a href="#projects">Projects</a> </nav>
 
----
-
-<style>
-    nav{
-        display:flex;
-        justify-content: space-around;
-    }
-</style>
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A passionate web developer</h3>
 
