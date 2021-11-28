@@ -45,7 +45,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 <h3 align="center"><b>Near future interests</b></h3>
 
 <p align="center"><a href="https://golang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="80"/>
-<a href="https://neo4j.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="100" height="60"/>
+<a href="https://neo4j.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="100" height="80"/>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/></a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"/></a>
 
@@ -81,7 +81,7 @@ After a first time of learning new languages and frameworks, my attention is foc
   <img align="center" height="180" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=Oquiz" />
 </a>
 <a href="https://github.com/Tonyp85-25/cauldron_overflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=cauldron_overflow" height="140" width="360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=cauldron_overflow&username=Tonyp85-25" height="140" width="360" />
 </a>
 <a href="https://github.com/Tonyp85-25/service-container">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=service-container" height="140" width="360" />
@@ -103,7 +103,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 
 <p align="center">
 <a href="https://github.com/Tonyp85-25/btre_project">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=btre_project" height="140" width="360" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=btre_project&username=Tonyp85-25" height="140" width="360" /></a>
 <a href="https://github.com/Tonyp85-25/DB_APIREST">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=DB_APIREST" height="140" width="360" />
 </a>
@@ -133,10 +133,10 @@ After a first time of learning new languages and frameworks, my attention is foc
 <summary>See more</summary>
 <p align="center">
  <a href="https://github.com/Tonyp85-25/typescriptApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=typescriptApp" height="140" width="360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=typescriptApp&username=Tonyp85-25" height="140" width="360" />
 </a>
 <a href="https://github.com/Tonyp85-25/demographicApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=demographicApp" height="140" width="360" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=demographicApp&username=Tonyp85-25" height="140" width="360" />
 </a>
 <a href="https://github.com/Tonyp85-25/movies-react-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=movies-react-app" height="140" width="360" />
