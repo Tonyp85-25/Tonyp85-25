@@ -86,11 +86,11 @@ After a first time of learning new languages and frameworks, my attention is foc
 <a href="https://github.com/Tonyp85-25/service-container">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=service-container" height="140" width="360" />
 </a>
-<a href="https://github.com/Tonyp85-25/phpunit_and_selenium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=phpunit_and_selenium" height="140" width="360" />
-</a>
 <a href="https://github.com/Tonyp85-25/php-unit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=php-unit" height="140" width="360" />
+</a>
+  <a href="https://github.com/Tonyp85-25/phpunit_and_selenium">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=phpunit_and_selenium" height="140" width="360" />
 </a>
 <!-- <a href="https://github.com/Tonyp85-25/symfo-eval-faq-o-clock-Tonyp85-25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=symfo-eval-faq-o-clock-Tonyp85-25" height="140" width="360" />
@@ -131,7 +131,8 @@ After a first time of learning new languages and frameworks, my attention is foc
 </a>
 <details align="center">
 <summary>See more</summary>
-<p align="center"><a href="https://github.com/Tonyp85-25/typescriptApp">
+<p align="center">
+ <a href="https://github.com/Tonyp85-25/typescriptApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=typescriptApp" height="140" width="360" />
 </a>
 <a href="https://github.com/Tonyp85-25/demographicApp">
