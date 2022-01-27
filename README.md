@@ -63,7 +63,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 
 <h3 align="center" id="projects"><b>Projects</b></h3>
 
-
+<div id="symfony">
 <h4 align="center">PHP/Symfony</h4>
 
 <p align="center">
@@ -98,7 +98,7 @@ After a first time of learning new languages and frameworks, my attention is foc
   </p>
 </details>
 </p>
-
+ </div>
 <h4 align="center">Python/Django/Flask</h4>
 
 <p align="center">
