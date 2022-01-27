@@ -63,7 +63,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 
 <h3 align="center" id="projects"><b>Projects</b></h3>
 
-<div id="symfony">
+
 <h4 align="center">PHP/Symfony</h4>
 
 <p align="center">
@@ -79,6 +79,9 @@ After a first time of learning new languages and frameworks, my attention is foc
  <p align="center">
 <a href="https://github.com/Tonyp85-25/Oquiz">
   <img align="center" height="180" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=Oquiz" />
+</a>
+  <a href="https://github.com/Tonyp85-25/faqoclock">
+  <img align="center" height="180" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=Tonyp85-25&repo=faqoclock" />
 </a>
 <a href="https://github.com/Tonyp85-25/cauldron_overflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?repo=cauldron_overflow&username=Tonyp85-25" height="140" width="360" />
@@ -98,7 +101,7 @@ After a first time of learning new languages and frameworks, my attention is foc
   </p>
 </details>
 </p>
- </div>
+
 <h4 align="center">Python/Django/Flask</h4>
 
 <p align="center">
