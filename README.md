@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-After being graduated from <a href="https://oclock.io" target="_blank" rel="noopener noreferrer"> O'clock </a> web development school in 2018, I am currently working at <a href="https://www.otaree.com/" target="_blank" rel="noopener noreferrer"> Otaree</a></p>
+After being graduated from <a href="https://oclock.io" target="_blank" rel="noopener noreferrer"> O'clock </a> web development school in 2018, I am currently working at  ...</p>
 <p align="center">
 I spend a lot of time training and reading besides my job to continually improve my practice and stay in touch with dev's world's evolutions.
 </p>
