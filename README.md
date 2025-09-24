@@ -80,7 +80,7 @@ After a first time of learning new languages and frameworks, my attention is foc
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tonyp85-25&theme=tokyonight&count_private=true"  />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyp85-25&hide=css,html,twig&theme=onedark&count_private=true&layout=compact"  height="195"/>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonyp85-25&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyp85-25&hide=css,html,twig&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonyp85-25&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonyp85-25&hide=css,html,twig,javascript&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </p>
 
