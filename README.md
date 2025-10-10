@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python"/>
 </h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/anthony-paulin"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-</p>
 
 ---
 
