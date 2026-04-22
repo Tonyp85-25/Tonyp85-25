@@ -28,7 +28,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 <br/>
 <h3 align="center" id="tools"><b> Favorite tools</b></h3>
 <br/>
-<p>
+<p  align="center">
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="dotnet" width="80" height="80"/></a>
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="80" height="80"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="80" height="80"/> </a>
@@ -40,7 +40,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 <br/>
 <h3 align="center"><b>Other tools used at work</b></h3>
 <br/>
-<p>
+<p  align="center">
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/> </a> 
  </a>
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg" alt="redux" width="80" height="80"/> </a>
@@ -63,7 +63,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 
 <h3 align="center"><b>Near future interests</b></h3>
 
-<p><a href="https://golang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="80"/>
+<p  align="center"><a href="https://golang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="80"/>
 <a href="https://neo4j.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="100" height="80"/>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/></a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"/></a>
