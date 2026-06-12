@@ -30,7 +30,8 @@ After a first time of learning new languages and frameworks, my attention is foc
 <br/>
 <p  align="center">
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="dotnet" width="80" height="80"/></a>
-<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="80" height="80"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a>
+ <a href="https://golang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="80"/></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="80" height="80"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="100" height="80"/> </a>
@@ -53,6 +54,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 <h3 align="center"><b>Tools used in the past</b></h3>
 <br/>
 <p align="center">
+ <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="80" height="80"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="100" height="80"/> </a> 
 <a href="http://nodejs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="80"/> </a>
  <a href="http://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="100" height="80"/> </a>
@@ -63,9 +65,9 @@ After a first time of learning new languages and frameworks, my attention is foc
 
 <h3 align="center"><b>Near future interests</b></h3>
 
-<p  align="center"><a href="https://golang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="80"/>
-<a href="https://neo4j.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="100" height="80"/>
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/></a>
+<p  align="center">
+<a href="https://neo4j.com//" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" alt="neo4j" width="100" height="80"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"/></a>
 
 </p>
