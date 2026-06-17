@@ -2,11 +2,10 @@
 <h3 align="center">A passionate web developer</h3>
 
 <h3 align="center">
+<img src="https://img.shields.io/badge/-Golang-white?style=flat&logo=go"/>
 <img src="https://img.shields.io/badge/-CSharp-purple?style=flat&logo=c%23"/>
 <img src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=php"/>
-
 <img src="https://img.shields.io/badge/-Typescript-lightgrey?style=flat&logo=typescript"/>
-<img src="https://img.shields.io/badge/-Javascript-orange?style=flat&logo=javascript">
 <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python"/>
 </h3>
 
