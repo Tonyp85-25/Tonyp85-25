@@ -2,11 +2,11 @@
 <h3 align="center">A passionate web developer</h3>
 
 <h3 align="center">
-<img src="https://img.shields.io/badge/-Golang-white?style=flat&logo=go"/>
-<img src="https://img.shields.io/badge/-CSharp-purple?style=flat&logo=c%23"/>
-<img src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=php"/>
-<img src="https://img.shields.io/badge/-Typescript-lightgrey?style=flat&logo=typescript"/>
-<img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/-Golang-%23fafafa?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/-CSharp-%236441c9?style=for-the-badge&logo=sharp"/>
+<img src="https://img.shields.io/badge/-Php-%23a4cdfe?style=for-the-badge&logo=php&labelColor=%23a4cdfe"/>
+<img src="https://img.shields.io/badge/-Typescript-%23e5efff?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/-Python-%23fafa96?style=for-the-badge&logo=python"/>
 </h3>
 
 
@@ -29,8 +29,7 @@ After a first time of learning new languages and frameworks, my attention is foc
 <br/>
 <p  align="center">
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="dotnet" width="80" height="80"/></a>
- <a href="https://golang.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="80" height="80"/></a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a>
+<a href="https://gin-gonic.com/en/" target="_blank" rel="noreferrer"> <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v.png" alt="gin" width="80" height="80"/></a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="80" height="80"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="100" height="80"/> </a>
